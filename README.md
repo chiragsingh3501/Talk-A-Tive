@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+>>>>>> HEAD
 # Talk-A-Tive
 =======
 # ✨ Full Stack Realtime Chat App ✨
